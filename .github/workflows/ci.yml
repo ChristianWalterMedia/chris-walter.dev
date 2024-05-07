@@ -27,6 +27,6 @@ jobs:
       - name: Setup pnpm
         uses: pnpm/action-setup@v3.0.0
       - run: pnpm i
-      - run: pnpm run dev
+      - run: pnpm run build
       - run: pnpm lint
       - run: pnpm test
