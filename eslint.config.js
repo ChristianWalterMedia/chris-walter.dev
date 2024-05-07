@@ -15,5 +15,8 @@ export default nuxt(
         'curly': 'off',
       },
     },
+    {
+      ignores: ['**/*.md'],
+    }
   ),
 )

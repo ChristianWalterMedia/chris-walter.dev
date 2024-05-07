@@ -1,0 +1,9 @@
+title: Erster Blog Eintrag
+description: Das ist der erste Blog Eintrag
+content:
+  - type: hero
+    title: Hero Title
+    description: Hero Description
+  - type: text
+    title: Text Title
+    description: Text Description
